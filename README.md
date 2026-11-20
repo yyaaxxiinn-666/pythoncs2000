@@ -1,5 +1,4 @@
 # pythoncs2000
-# pythoncs2000
 Initial Python practice repository for **CS 2000: Introduction to Program Design and Implementation** at [Northeastern University](https://www.northeastern.edu/).
 
 ## Overview
